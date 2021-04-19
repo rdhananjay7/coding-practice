@@ -4,3 +4,4 @@ The repository contains problems generally asked in coding interviews. The code 
 1. Fibonacci with memoization 
 2. Monotonic Array
 3. Longest Peak
+4. Unique Number of Occurrences
