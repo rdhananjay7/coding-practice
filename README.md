@@ -6,3 +6,4 @@ The repository contains problems generally asked in coding interviews. The code 
 3. Longest Peak
 4. Unique Number of Occurrences
 5. Kadane's Algorithm
+6. Happy Number
