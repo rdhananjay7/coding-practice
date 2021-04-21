@@ -7,3 +7,4 @@ The repository contains problems generally asked in coding interviews. The code 
 4. Unique Number of Occurrences
 5. Kadane's Algorithm
 6. Happy Number
+7. The Largest range in an unsorted array
