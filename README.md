@@ -8,3 +8,6 @@ The repository contains problems generally asked in coding interviews. The code 
 5. Kadane's Algorithm
 6. Happy Number
 7. The Largest range in an unsorted array
+8. Number of Bottles (LeetCode #1518)
+9. Max area of island (LeetCode #695)
+10. Alphabet board path (LeetCode #1138)
