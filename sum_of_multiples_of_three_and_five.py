@@ -4,17 +4,13 @@ class Solution:
         result = 0
 
         for number in range(input_range):
-            if self.is_multiple_of_three(number) or self.is_multiple_of_five(number):
+            if self.is_multiple_of_number(number, 3) or self.is_multiple_of_number(number, 5):
                 result += number
         return result
 
     @staticmethod
-    def is_multiple_of_three(number):
-        return number % 3 == 0
-
-    @staticmethod
-    def is_multiple_of_five(number):
-        return number % 5 == 0
+    def is_multiple_of_number(number, is_multiple_of):
+        return number % is_multiple_of == 0
 
 
 if __name__ == "__main__":
