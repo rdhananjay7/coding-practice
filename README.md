@@ -12,3 +12,4 @@ The repository contains problems generally asked in coding interviews. The code 
 9. Max area of island (LeetCode #695)
 10. Alphabet board path (LeetCode #1138)
 11. Extract and Sum
+12. Sum of multiples of 3 or 5
